@@ -24,7 +24,7 @@
 
 ## Class Test2
 
-#### Senaryo 1: addToBasketFavourites()
+#### Senaryo 1: addToBasketFromFavourites()
 - login() methodu ile Login işlemi yapılır.
 - ciceksepeti.com'a gidilir.
 - Gönderim yeri popup'ı kapatılır.
