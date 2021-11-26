@@ -12,7 +12,7 @@
 
 #### Senaryo 2: changePassword()
 - login() methodu ile Login işlemi yapılır.
-- çiçeksepeti.com'a gidilir.
+- ciceksepeti.com'a gidilir.
 - Gönderim yeri popup'ı kapatılır.
 - 'Hesabım' butonuna tıklanır.
 - 'Şifre Değiştir' butonuna tıklanır.
@@ -38,7 +38,7 @@
 
 #### Senaryo 2: removeFromBasket()
 - login() methodu ile Login işlemi yapılır.
-- çiçeksepeti.com’a gidilir.
+- ciceksepeti.com’a gidilir.
 - Gönderim yeri popup'ı kapatılır.
 - 'Sepetim' butonuna tıklanır.
 - Sepetten çıkarılmak istenen ürün için X ikonuna tıklanır.
